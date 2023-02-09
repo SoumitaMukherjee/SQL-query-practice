@@ -1,1 +1,3 @@
-# SQL-query-practice
+# SQL-query-practice 
+
+Hackerank queries
